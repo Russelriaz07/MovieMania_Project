@@ -1,1 +1,1 @@
-# MovieMania_Project
+# TheMovieApplication
